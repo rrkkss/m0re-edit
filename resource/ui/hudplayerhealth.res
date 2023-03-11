@@ -57,7 +57,7 @@
 		"enabled"	  		         				"1"
 		"labelText" 		         				"%Health%"
 		"textAlignment"         				 	"center"	
-		"font"                   				 	"m0refont72"
+		"font"                   				 	"Renogare40"
 		"fgcolor"	    	         				"Health Numbers"
 		
 		"pin_to_sibling"							"HealthAnchor"
@@ -69,8 +69,8 @@
 	{
 		"ControlName"	           				 	"CExLabel"
 		"fieldName"	  	         				 	"PlayerStatusHealthValueShadow"
-		"xpos"	    		         				"-3"
-		"ypos"	    		         				"-3"	
+		"xpos"	    		         				"-1"
+		"ypos"	    		         				"-1"	
 		"zpos"	    		         				"5"
 		"wide"		    	         				"150"
 		"tall"		    	         				"80"
@@ -78,31 +78,11 @@
 		"enabled"	    	         				"1"
 		"labelText"	  	         				 	"%Health%"
 		"textAlignment"	         				 	"center"	
-		"font"                   				 	"m0refont72BLUR"
+		"font"                   				 	"Renogare40"
 		"fgcolor"	     	         				"Black"
 		"shadow"								"1"
 		
 		"pin_to_sibling"							"PlayerStatusHealthValue"
-	}
-	
-	"PlayerStatusHealthValueShadowExtra"
-	{
-		"ControlName"	          				 	"CExLabel"
-		"fieldName"	  	         				 	"PlayerStatusHealthValueShadowExtra"
-		"xpos"	    		         				"-1"
-		"ypos"	    		         				"-1"	
-		"zpos"	    		         				"5"
-		"wide"		    	         				"150"
-		"tall"		    	         				"80"
-		"visible"	    	         				"0"
-		"enabled"	    	         				"0"
-		"labelText"	  	         				 	"%Health%"
-		"textAlignment"	         				 	"center"	
-		"font"                   				 	"m0refont72"
-		"fgcolor"	     	         				"Extra Shadow"
-		"alpha"	     	         					"0"
-		
-		"pin_to_sibling"							"PlayerStatusHealthValueShadow"
 	}
 	
 	"PlayerStatusAnchor"
