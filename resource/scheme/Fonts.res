@@ -140,6 +140,26 @@ Scheme
 			}
 		}
 
+		"Renogare20"
+		{
+			"1"
+			{
+				"name"										"Renogare Soft"
+				"tall"										"20"
+				"antialias"									"1"
+			}
+		}
+
+		"Renogare40"
+		{
+			"1"
+			{
+				"name"										"Renogare Soft"
+				"tall"										"40"
+				"antialias"									"1"
+			}
+		}
+
 		//default m0rehud fonts
 		"m0refont8"
 		{
@@ -3287,6 +3307,19 @@ Scheme
 		{
 			"font" 				"resource/scheme/fonts/Respawn Quake.otf"
 			"name" 				"Respawn Font Quake"
+		}
+
+		"16"
+		{
+			"font"				"resource/scheme/fonts/renogare.ttf" [$WINDOWS]
+			"font"				"resource/scheme/fonts/renogare linux.otf" [$POSIX]
+			"name"				"Renogare Soft"
+		}
+		"17"
+		{
+			"font"				"resource/scheme/fonts/renogare numbers.otf" [$WINDOWS]
+			"font"				"resource/scheme/fonts/renogare numbers linux.otf" [$POSIX]
+			"name"				"Renogare Numbers"
 		}
 	}
 }
