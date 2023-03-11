@@ -53,8 +53,8 @@
 				"paintborder"						"0"
 				
 				"defaultFgColor_override" 			"White"
-				"armedFgColor_override" 			"80 80 80 255"
-				"depressedFgColor_override" 		"80 80 80 255"
+				"armedFgColor_override" 			"Accent"
+				"depressedFgColor_override" 		"Accent"
 			}		
 		}
 		
@@ -142,7 +142,7 @@
 		"AllCaps"									"1"
 
 		"font"										"robotoMenu"
-		"fgcolor_override"							"80 80 80 255"
+		"fgcolor_override"							"Accent"
 		"labelText"									"No Connection To Steam"
 		"textAlignment"								"west"
 		"use_proportional_insets"					"1"
@@ -241,8 +241,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -287,8 +287,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -333,8 +333,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -379,8 +379,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -425,8 +425,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -471,8 +471,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -517,8 +517,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -563,8 +563,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -609,8 +609,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -655,8 +655,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -701,8 +701,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -752,8 +752,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -799,8 +799,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -846,8 +846,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -917,8 +917,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -963,11 +963,11 @@
 			"paintbackground"						"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"255 0 127 255"
-			"depressedFgColor_override" 			"255 0 127 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 			
 			"image_drawcolor"						"255 255 255 255"
-			"image_armedcolor"						"255 0 127 255"
+			"image_armedcolor"						"Accent"
 			
 			"SubImage"
 			{
@@ -1029,11 +1029,11 @@
 			"paintbackground"						"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"255 0 127 255"
-			"depressedFgColor_override" 			"255 0 127 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 			
 			"image_drawcolor"						"255 255 255 255"
-			"image_armedcolor"						"255 0 127 255"
+			"image_armedcolor"						"Accent"
 			
 			"SubImage"
 			{
@@ -1095,11 +1095,11 @@
 			"paintbackground"						"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"255 0 127 255"
-			"depressedFgColor_override" 			"255 0 127 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 			
 			"image_drawcolor"						"255 255 255 255"
-			"image_armedcolor"						"255 0 127 255"
+			"image_armedcolor"						"Accent"
 			
 			"SubImage"
 			{
@@ -1162,11 +1162,11 @@
 			"paintbackground"						"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"255 0 127 255"
-			"depressedFgColor_override" 			"255 0 127 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 			
 			"image_drawcolor"						"255 255 255 255"
-			"image_armedcolor"						"255 0 127 255"
+			"image_armedcolor"						"Accent"
 			
 			"SubImage"
 			{
@@ -1241,8 +1241,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -1286,8 +1286,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -1331,8 +1331,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -1376,8 +1376,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -1421,8 +1421,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -1466,8 +1466,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -1511,8 +1511,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"255 100 100 255"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	
@@ -1556,8 +1556,8 @@
 			"paintborder"							"0"
 			
 			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"80 80 80 255"
-			"depressedFgColor_override" 			"80 80 80 255"
+			"armedFgColor_override" 				"Accent"
+			"depressedFgColor_override" 			"Accent"
 		}
 	}
 	

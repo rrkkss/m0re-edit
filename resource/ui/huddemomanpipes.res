@@ -76,7 +76,7 @@
 			"dulltext"								"0"
 			"brighttext"							"0"
 			"font"									"m0refont24"
-			"fgcolor"   							"Yellow"
+			"fgcolor"   							"Accent"
 			"proportionaltoparent"					"1"
 		}
 		
