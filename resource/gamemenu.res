@@ -4,7 +4,7 @@
 	"Version"
 	{
 		"label" 									"INFO" 
-		"command" 									"engine showconsole; echo m0rehud-Hypnotize by Hypnotize, edited by Rockz @ www.github.com/rrkkss/Hypnotize-m0rehud"
+		"command" 									"engine showconsole; echo m0rehud-Hypnotize by Hypnotize, edited by Rockz @ https://github.com/rrkkss/m0re-edit"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
