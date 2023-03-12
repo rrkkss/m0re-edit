@@ -31,7 +31,7 @@
 		"textAlignment"								"center"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"m0refont72"
+		"font"										"Renogare40"
 		"fgcolor"   								"Ubercharge"
 		
 		"pin_to_sibling"							"UberAnchor"
@@ -43,8 +43,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ChargeLabelBigShadow"
-		"xpos"										"-3"
-		"ypos"										"-3"
+		"xpos"										"-1"
+		"ypos"										"-1"
 		"zpos"										"2"
 		"wide"										"200"
 		"tall"										"80"
@@ -57,7 +57,7 @@
 		"textAlignment"								"center"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"m0refont72BLUR"
+		"font"										"Renogare40"
 		"fgcolor"  									"Black"
 		
 		"pin_to_sibling"							"ChargeLabelBig"
@@ -81,7 +81,7 @@
 		"textAlignment"								"center"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"m0refont72BLUR"
+		"font"										"Renogare40"
 		"fgcolor"  									"Black"
 		"alpha"  									"0"
 		
