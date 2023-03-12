@@ -239,7 +239,7 @@
 	
 	"HudTournamentBLUEBG"
 	{
-		"ControlName"								"ScalableImagePanel"
+		"ControlName"           					"ImagePanel"
 		"fieldName"									"HudTournamentBLUEBG"
 		"xpos"										"-1"
 		"ypos"										"0"
@@ -249,12 +249,7 @@
 		"pinCorner"									"0"
 		"visible"									"1"
 		"enabled"									"1"
-		
-		"image"										"../HUD/tournament_panel_blu"
-		"src_corner_height"	 						"15"
-		"src_corner_width"	 						"15"
-		"draw_corner_width"	 						"0"	
-		"draw_corner_height" 						"0"
+		"fillcolor"									"M0reBlue"
 
 		"pin_to_sibling"							"WhiteBG"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -348,7 +343,7 @@
 
 	"HudTournamentREDBG"
 	{
-		"ControlName"								"ScalableImagePanel"
+		"ControlName"           					"ImagePanel"
 		"fieldName"									"HudTournamentREDBG"
 		"xpos"										"-1"
 		"ypos"										"0"
@@ -358,12 +353,7 @@
 		"pinCorner"									"0"
 		"visible"									"1"
 		"enabled"									"1"
-		"image"										"../HUD/tournament_panel_red"
-		"scaleImage"								"1"
-		"src_corner_height"							"15"
-		"src_corner_width"							"15"
-		"draw_corner_width"							"0"
-		"draw_corner_height" 						"0"
+		"fillcolor"									"M0reRed"
 		
 		"pin_to_sibling"							"WhiteBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
