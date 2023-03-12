@@ -2,62 +2,65 @@ Scheme
 {
 	Colors
 	{
+		///////////////////////////////////////////////////////////////////////////////
+		/////////////////////////////// CUSTOM COLORS /////////////////////////////////
+		///////////////////////////////////////////////////////////////////////////////
+
+		// these are more of a reference point, because you can't cross reference colours as "Ammo" => "White"
+
 		"RedNeon"											"255 0 0 255"
+		"RedPastel"											"236 84 73 255"
+		"RedPastelDarker"									"184 63 54 255"
+		
 		"GreenNeon"											"0 255 0 255"
+		"GreenPastel"										"108 255 89 255"
+		"GreenPastelDarker"									"75 178 52 255"
+		
+		"BlueNeon"											"0 109 255 255"
+		"BluePastel"										"63 161 233 255"
+		
 		"White"												"255 255 255 255"
 		"Black"												"0 0 0 255"
 		"Yellow"											"255 255 0 255"
-		"Accent"											"0 255 0 255"
+		"Accent"											"108 255 89 255"
 
 		///////////////////////////////////////////////////////////////////////////////
 		/////////////////////////////// INGAME COLORS /////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////
 		
 		"Health Numbers"									"255 255 255 255" 	//white #eceff4
-
-		"Health Buff"										"GreenNeon"	//0 230 0 255
-		"Health Buff Target"								"GreenNeon"
-		"Health Buff Spec"									"GreenNeon"
-		"Health Buff Killer"								"GreenNeon"
+		"Health Buff"										"108 255 89 255"	//0 230 0 255
+		"Health Buff Darker"								"75 178 52 255"
+		"Health Hurt"										"236 84 73 255"
+		"Health Hurt Darker"								"184 63 54 255"
 		
-		"Health Hurt"										"RedNeon"
-		"Health Hurt Target"								"RedNeon"
-		"Health Hurt Spec"									"RedNeon"
-		"Health Hurt Killer"								"RedNeon"
-		
-		"Ammo In Clip"										"255 255 255 255" 	//white #eceff4 //236 239 244 255
-		"Ammo In Reserve"									"255 255 255 255" 	//white #eceff4
-		"Ammo No Clip"										"255 255 255 255" 	//white #eceff4
-
-		"Ammo In Clip Low"									"RedNeon"
-		"Ammo In Reserve Low"								"RedNeon"
-		"Ammo No Clip Low"									"RedNeon"
+		"Ammo"												"255 255 255 255" 	//white #eceff4 //236 239 244 255
+		"Ammo Low"											"236 84 73 255"
+		"Ammo Low Darker"									"184 63 54 255"
 
 		"Ubercharge"										"255 255 255 255" 	//white #eceff4
-		"Ubercharge Full"									"GreenNeon"
-		
-		"Extra Shadow"										"0 0 0 255"
+		"Ubercharge Full"									"108 255 89 255"
 
-		"Heal Numbers"										"GreenNeon"
+		"Heal Numbers"										"108 255 89 255"
 		"Last Damage Done"									"255 255 255 255"
 		
-		"M0reBlue"											"0 120 201 255"
-		"M0reRed"											"235 58 58 255"
+		"M0reBlue"											"63 161 233 255"
+		"M0reRed"											"236 84 73 255"
 		
 		///////////////////////////////////////////////////////////////////////////////
 		//////////////////////////////// MENU COLORS //////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////
 		
-		"White"												"255 255 255 255"
+		//"White"											"255 255 255 255"
 		"WhiteDark"											"160 160 160 255"
 		
-		"Blue"												"0 165 255 255"
-		"BlueLight"											"0 165 255 255"
-		"TF2Blue"											"90 122 143 255"
+		"Blue"												"63 161 233 255"
+		"BlueLight"											"63 161 233 255"
+		"TF2Blue"											"63 161 233 255"
 		
-		"Red"												"255 25 25 255"
-		"RedLight"											"255 60 60 255"
-		"TF2Red"											"189 59 61 255"
+		"Red"												"236 84 73 255"
+		"RedLight"											"236 84 73 255"
+		"TF2Red"											"236 84 73 255"
 		
 		"Green"												"35 185 30 255"
 		"GreenLight"										"120 220 80 255"
@@ -65,7 +68,7 @@ Scheme
 		"Gray"												"65 65 65 255"
 		"GrayLight"											"80 80 80 255"
 		"GrayDark"											"50 50 50 255"
-		"Black"												"0 0 0 255"
+		//"Black"											"0 0 0 255"
 		"BlackLight"										"22 22 22 255"
 		"BlackDark"											"15 15 15 255"
 		"BlackLightTransparent"								"0 0 0 50"
