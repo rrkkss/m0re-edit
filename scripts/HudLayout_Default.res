@@ -770,15 +770,15 @@
 		"fieldName"				"HudHintDisplay"
 		"visible"				"0"
 		"enabled"				"0"
-		"xpos"					"9999" //c-240
-		"ypos"					"c60"
-		"wide"					"480"
-		"tall"					"100"
-		"HintSize"				"1"
+		"xpos"					"9999"
+		"ypos"					"0"
+		"wide"					"0"
+		"tall"					"0"
+		"HintSize"				"0"
 		"text_xpos"				"8"
 		"text_ypos"				"8"
-		"center_x"				"0"	// center text horizontally
-		"center_y"				"-1"	// align text on the bottom
+		"center_x"				"0"
+		"center_y"				"-1"
 	}	
 
 	HudHintKeyDisplay
@@ -1049,26 +1049,26 @@
 	HudTeamGoal
 	{
 		"fieldName"				"HudTeamGoal"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"xpos"					"c-160"
 		"ypos"					"65"
 		"ypos_lodef"			"75"
-		"wide"					"320"
-		"tall"					"100"
+		"wide"					"0"
+		"tall"					"0"
 	}
 
 
 	HudTeamGoalTournament
 	{
 		"fieldName"				"HudTeamGoalTournament"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"xpos"					"c-160"
 		"ypos"					"15"
 		"ypos_lodef"			"75"
-		"wide"					"320"
-		"tall"					"300"
+		"wide"					"0"
+		"tall"					"0"
 	}
 
 	HudTeamSwitch
@@ -1435,12 +1435,12 @@
 	"QuestNotificationPanel"
 	{
 		"fieldName"	"QuestNotificationPanel"
-		"visible" "1"
-		"enabled" "1"
+		"visible" "0"
+		"enabled" "0"
 		"xpos"	"0"
 		"ypos"	"0"
-		"wide"	"f0"
-		"tall"	"f0"
+		"wide"	"0"
+		"tall"	"0"
 	}
 
 	"MatchMakingContainer"

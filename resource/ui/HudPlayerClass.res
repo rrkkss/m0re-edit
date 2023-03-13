@@ -20,12 +20,12 @@
 		"xpos"										"20"
 		"ypos"										"r48"
 		"zpos"										"2"
-		"wide"										"48"
-		"tall"										"48"
-		"visible"									"1"
-		"enabled"									"1"
-		"image"										"../hud/class_scoutred"
-		"scaleImage"								"1"
+		"wide"										"0"
+		"tall"										"0"
+		"visible"									"0"
+		"enabled"									"0"
+		"image"										""
+		"scaleImage"								"0"
 		"alpha"										"0"
 	}
 	
