@@ -3,7 +3,7 @@
 	"scores"
 	{
 		"ControlName"	        					"CTFClientScoreBoardDialog"
-		"fieldName"	          						"scoreinfo"
+		"fieldName"	          						"scores"
 		"xpos"		            					"0"
 		"ypos"		            					"31"
 		"wide"		            					"f0"
@@ -16,20 +16,21 @@
 		"medal_width"								"0"
 		"avatar_width"								"55"
 		"spacer"									"0"
-		"name_width"								"85"
+		"name_width"								"70"
 		"nemesis_width"								"14"
 		"class_width"								"14"
 		"score_width"								"20"
 		"ping_width"								"20"
 		"killstreak_width"							"12"
 		"killstreak_image_width" 					"12"
+		"font"										"robotoSmall"
 	}
 	
 	"BluePlayerList"
 	{
-		"xpos"			          					"c-205"
+		"xpos"			          					"c-270"
 		"ypos"			          					"c-100"
-		"wide"			         					"180"
+		"wide"			         					"250"
 		"tall"			          					"180"
 		
 		"ControlName"	       						"SectionedListPanel"
@@ -42,13 +43,19 @@
 		"autoresize"	        					"3"
 		"linespacing"       						"12"
 		"fgcolor"		         					"m0reblue"
+		"font"										"robotoSmall"
+
+		"players"
+		{
+			
+		}
 	}
 	
 	"RedPlayerList"
 	{
 		"xpos"			          					"c20"
 		"ypos"			          					"c-100"
-		"wide"			          					"180"
+		"wide"			          					"250"
 		"tall"			          					"180"
 		
 		"ControlName"								"SectionedListPanel"
@@ -61,6 +68,7 @@
 		"autoresize"	        					"3"
 		"linespacing"       						"12"
 		"textcolor"									"m0rered"
+		"font"										"robotoSmall"
 	}
 	
 	"BlueTeamScore"
@@ -71,7 +79,7 @@
 		"fgcolor"   								"m0reblue"
 		"labelText"									"%blueteamscore%"
 		"textAlignment"								"west"
-		"xpos"										"c-35"
+		"xpos"										"c-85"
 		"ypos"										"120" 
 		"zpos"										"4"
 		"wide"										"45"
@@ -120,7 +128,7 @@
 		"fgcolor"   								"m0rered"
 		"labelText"									"%redteamscore%"
 		"textAlignment"								"east"
-		"xpos"										"c-55"
+		"xpos"										"c-5"
 		"ypos"										"120" 
 		"zpos"										"4"
 		"wide"										"87"
@@ -455,7 +463,7 @@
 			"pinCorner"								"0"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor"								"255 0 0 255"
+			"fgcolor"								"Health Hurt"
 		}
 
 		"DeathsWhiteShadow"

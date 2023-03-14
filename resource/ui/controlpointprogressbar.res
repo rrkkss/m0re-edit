@@ -11,8 +11,8 @@
 		"wide_minmode"		"65"
 		"tall"				"42"
 		"tall_minmode"		"42"
-		"visible"			"1"
-		"enabled"			"1"
+		"visible"			"0"
+		"enabled"			"0"
 	}
 
 	"ProgressText"

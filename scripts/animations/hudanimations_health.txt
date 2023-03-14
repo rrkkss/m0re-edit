@@ -2,12 +2,10 @@
 
 event HudHealthBonusPulse
 {
-	Animate PlayerStatusHealthValue						FgColor		"Health Buff"						Linear 	0.0 	0.0
-	Animate PlayerStatusHealthValueShadow 				FgColor 	"Health Buff Darker" 				Linear 	0.0 	0.0
-	
-	Animate PlayerStatusHealthValueKiller 				FgColor 	"Health Buff" 						Linear 	0.0 	0.0
-	Animate PlayerStatusHealthValueTarget 				FgColor 	"Health Buff" 						Linear 	0.0 	0.0
-	Animate PlayerStatusHealthValueSpecgui 				FgColor 	"Health Buff" 						Linear 	0.0 	0.0
+	Animate PlayerStatusHealthValue					FgColor		"Health Buff"						Linear 	0.0 	0.0
+	Animate PlayerStatusHealthValueKiller 			FgColor 	"Health Buff" 						Linear 	0.0 	0.0
+	Animate PlayerStatusHealthValueTarget 			FgColor 	"Health Buff" 						Linear 	0.0 	0.0
+	Animate PlayerStatusHealthvalueSpecgui 			FgColor 	"Health Buff" 						Linear	0.0 	0.0
 
 	RunEvent HudHealthBonusPulseLoop				0.0
 }
@@ -22,12 +20,10 @@ event HudHealthBonusPulseStop
 	StopEvent HudHealthBonusPulse 					0.0
 	StopEvent HudHealthBonusPulseLoop				0.0
 	
-	Animate PlayerStatusHealthValue					FgColor		"Health Numbers"					Accel 	0.0 	0.0
-	Animate PlayerStatusHealthValueShadow 			FgColor 	"Black" 							Accel 	0.0 	0.0
-	
+	Animate PlayerStatusHealthValue					FgColor		"Health Numbers"					Linear 	0.0 	0.0	
 	Animate PlayerStatusHealthValueKiller 			FgColor 	"Health Numbers" 					Linear 	0.0 	0.0
 	Animate PlayerStatusHealthValueTarget 			FgColor 	"Health Numbers" 					Linear 	0.0 	0.0
-	Animate PlayerStatusHealthvalueSpecgui 			FgColor 	"Health Numbers" 					Accel	0.0 	0.0
+	Animate PlayerStatusHealthvalueSpecgui 			FgColor 	"Health Numbers" 					Linear	0.0 	0.0
 }
 
 //===========================================================================================================================
@@ -35,12 +31,9 @@ event HudHealthBonusPulseStop
 event HudHealthDyingPulse
 {
 	Animate PlayerStatusHealthValue						FgColor		"Health Hurt"					Linear 	0.0 0.0
-	Animate PlayerStatusHealthValueShadow 				FgColor 	"Health Hurt Darker" 			Linear 	0.0 0.0
-	
 	Animate PlayerStatusHealthValueTarget 				FgColor 	"Health Hurt" 					Linear 	0.0 0.0
 	Animate PlayerStatusHealthvalueSpecgui 				FgColor 	"Health Hurt" 					Linear 	0.0 0.0
 	Animate PlayerStatusHealthValueKiller 				FgColor 	"Health Hurt" 					Linear 	0.0 0.0
-	Animate PlayerStatusHealthValueShadowKiller 		FgColor 	"Health Hurt Darker" 			Linear 	0.0 0.0
 	
 
 	RunEvent HudHealthDyingPulseLoop					0.0
@@ -57,12 +50,9 @@ event HudHealthDyingPulseStop
 	StopEvent HudHealthDyingPulseLoop 				0.0
 	
 	Animate PlayerStatusHealthValue					FgColor		"Health Numbers"					Linear 	0.0 0.0
-	Animate PlayerStatusHealthValueShadow 			FgColor 	"Black" 							Linear 	0.0 0.0
-	
 	Animate PlayerStatusHealthValueTarget 			FgColor 	"Health Numbers" 					Linear 	0.0 0.0
 	Animate PlayerStatusHealthvalueSpecgui 			FgColor 	"Health Numbers" 					Linear 	0.0 0.0
 	Animate PlayerStatusHealthValueKiller 			FgColor 	"Health Numbers" 					Linear 	0.0 0.0
-	Animate PlayerStatusHealthValueShadowKiller 	FgColor 	"black" 							Linear 	0.0 0.0
 }
 
 //===========================================================================================================================

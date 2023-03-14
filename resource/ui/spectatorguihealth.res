@@ -4,15 +4,15 @@
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"PlayerStatusHealthBonusImage"
-		"xpos"										"-9999" //9
-		"ypos"										"0"	//14
-		"zpos"										"0"	//-1
-		"wide"										"0"	//15
-		"tall"										"0"	//15
+		"xpos"										"-9999"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"0"
+		"tall"										"0"
 		"visible"									"0"
 		"enabled"									"0"
-		"image"										"../hud/health_over_bg"
-		"scaleImage"								"1"	
+		"image"										""
+		"scaleImage"								"0"	
 	}
 	
 	"PlayerStatusHealthValueTarget"
@@ -58,10 +58,10 @@
 		"xpos"										"10"
 		"ypos"										"9"
 		"zpos"										"5"
-		"wide"										"12"
-		"tall"										"12"
+		"wide"										"0"
+		"tall"										"0"
 		"visible"									"0"
-		"enabled"									"1"
+		"enabled"									"0"
 		"textAlignment"								"center"	
 		"font"										"ScoreboardVerySmall"
 		"fgcolor"									"TFOrange"
