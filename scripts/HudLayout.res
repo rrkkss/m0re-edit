@@ -1,7 +1,3 @@
-//hud crosshairs
-#base "../scripts/crosshairs/crosshairs.res"
-
-//default hud layout
 #base "../scripts/HudLayout_Default.res"
 
 "Resource/HudLayout.res"
