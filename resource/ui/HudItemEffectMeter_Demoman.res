@@ -53,7 +53,7 @@
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"font"										"M0refont24"
-		"fgcolor_override" 							"yellow"
+		"fgcolor_override" 							"Accent"
 	}
 	
 	"ItemEffectMeterCountShadow"
