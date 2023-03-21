@@ -185,7 +185,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Roboto Medium"
 				"tall"										"11"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -774,28 +774,28 @@ Scheme
 		{
 			"1"
 			{
-				"name"		  								"Surface-Medium"
-				"tall"      								"14"
+				"name"		  								"Roboto Medium"
+				"tall"      								"12"
 				"antialias" 								"1"
 				"yres"	    								"480 700"
 			}
 			"2"
 			{
-				"name"		 								"Surface-Medium"
+				"name"		 								"Roboto Medium"
 				"tall"      								"18"
 				"antialias" 								"1"
 				"yres"	    								"701 899"
 			}
 			"3"
 			{
-				"name"		  								"Surface-Medium"
+				"name"		  								"Roboto Medium"
 				"tall"      								"22"
 				"antialias" 								"1"
 				"yres"	    								"900 1000"
 			}
 			"4"
 			{
-				"name"		  								"Surface-Medium"
+				"name"		  								"Roboto Medium"
 				"tall"      								"24"
 				"antialias" 								"1"
 				"yres"	    								"1001 10000"
@@ -806,28 +806,28 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
-				"tall"      								"13"
+				"name"										"Roboto Medium"
+				"tall"      								"12"
 				"antialias" 								"1"
 				"yres"										"480 700"
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Roboto Medium"
 				"tall"      								"16"
 				"antialias" 								"1"
 				"yres"										"701 899"
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Roboto Medium"
 				"tall"     									"20"
 				"antialias" 								"1"
 				"yres"										"900 1000"
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Roboto Medium"
 				"tall"      								"24"
 				"antialias" 								"1"
 				"yres"										"1001 10000"
@@ -1585,7 +1585,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Roboto Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -1597,7 +1597,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Roboto Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"italic"									"1"
@@ -1610,7 +1610,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Roboto Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -1622,7 +1622,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Roboto Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"italic"									"1"
@@ -1635,7 +1635,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Roboto Medium"
 				"tall"										"16"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -1770,7 +1770,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"Roboto Medium"
 				"tall"										"8"
 				"weight"									"400"
 				"additive"									"0"
@@ -1781,7 +1781,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Heavy"
+				"name"										"Roboto Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1792,10 +1792,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Heavy"
+				"name"										"Roboto Medium"
 				"tall"										"14"
 				"weight"									"500"
-				"range"										"0x0000 0x007F"
+				//"range"										"0x0000 0x007F"
 				"antialias" 								"1"
 				"additive"									"0"
 			}
@@ -1804,10 +1804,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Heavy"
+				"name"										"Roboto Medium"
 				"tall"										"20"
 				"weight"									"500"
-				"range"										"0x0000 0x007F"
+				//"range"										"0x0000 0x007F"
 				"antialias" 								"1"
 				"additive"									"0"
 			}
@@ -1816,10 +1816,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Heavy"
+				"name"										"Roboto Medium"
 				"tall"										"20"
 				"weight"									"500"
-				"range"										"0x0000 0x007F"
+				//"range"										"0x0000 0x007F"
 				"antialias" 								"1"
 				"additive"									"0"
 			}
@@ -1828,10 +1828,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Heavy"
+				"name"										"Roboto Medium"
 				"tall"										"14"
 				"weight"									"500"
-				"range"										"0x0000 0x007F"
+				//"range"										"0x0000 0x007F"
 				"antialias" 								"1"
 				"additive"									"0"
 			}
@@ -1840,10 +1840,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Heavy"
+				"name"										"Roboto Medium"
 				"tall"										"20"
 				"weight"									"500"
-				"range"										"0x0000 0x007F"
+				//"range"										"0x0000 0x007F"
 				"antialias" 								"1"
 				"additive"									"0"
 			}
@@ -1852,10 +1852,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"Roboto Medium"
 				"tall"										"34"
 				"weight"									"500"
-				"range"										"0x0000 0x007F"
+				//"range"										"0x0000 0x007F"
 				"antialias" 								"1"
 				"additive"									"0"
 			}
@@ -1865,7 +1865,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"Roboto Medium"
 				"tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -1876,7 +1876,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"Roboto Medium"
 				"tall"										"52"
 				"range" 									"0x0000 0x00FF"
 				"weight"									"400"
@@ -1885,36 +1885,36 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"Roboto Medium"
 				"tall"										"72"
-				"range" 									"0x0000 0x00FF"
+				//"range" 									"0x0000 0x00FF"
 				"weight"									"400"
 				"yres"										"600 767"
 				"antialias" 								"1"
 			}
 			"3"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"Roboto Medium"
 				"tall"										"100"
-				"range" 									"0x0000 0x00FF"
+				//"range" 									"0x0000 0x00FF"
 				"weight"									"400"
 				"yres"										"768 1023"
 				"antialias"								 	"1"
 			}
 			"4"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"Roboto Medium"
 				"tall"										"140"
-				"range" 									"0x0000 0x00FF"
+				//"range" 									"0x0000 0x00FF"
 				"weight"									"400"
 				"yres"										"1024 1199"
 				"antialias" 								"1"
 			}
 			"5"
 			{
-				"name"										"AvenirLTStd-Black"
+				"name"										"Roboto Medium"
 				"tall"										"180"
-				"range" 									"0x0000 0x00FF"
+				//"range" 									"0x0000 0x00FF"
 				"weight"									"400"
 				"yres"										"1200 10000"
 				"antialias" 								"1"

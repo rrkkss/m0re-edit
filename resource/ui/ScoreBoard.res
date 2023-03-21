@@ -23,7 +23,6 @@
 		"ping_width"								"20"
 		"killstreak_width"							"12"
 		"killstreak_image_width" 					"12"
-		"font"										"robotoSmall"
 	}
 	
 	"BluePlayerList"
@@ -43,12 +42,6 @@
 		"autoresize"	        					"3"
 		"linespacing"       						"12"
 		"fgcolor"		         					"m0reblue"
-		"font"										"robotoSmall"
-
-		"players"
-		{
-			
-		}
 	}
 	
 	"RedPlayerList"
@@ -68,7 +61,6 @@
 		"autoresize"	        					"3"
 		"linespacing"       						"12"
 		"textcolor"									"m0rered"
-		"font"										"robotoSmall"
 	}
 	
 	"BlueTeamScore"

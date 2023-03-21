@@ -525,8 +525,8 @@ Scheme
 
 		"ViewportBG"										"Blank"
 		"TeamSpec"											"White"
-		"TeamRed"											"Red"
-		"TeamBlue"											"Blue"
+		"TeamRed"											"m0rered"
+		"TeamBlue"											"m0reblue"
 
 		"MapDescriptionText"								"Gray"
 		"HudIcon_Green"										"0 160 0 255"
