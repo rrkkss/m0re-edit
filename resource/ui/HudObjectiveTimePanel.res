@@ -23,8 +23,8 @@
 	{
 		"ControlName" 								"CExLabel"
 		"fieldName" 								"ServerTimeLimitLabel"
-		"xpos" 										"26"
-		"ypos" 										"15"
+		"xpos" 										"-4"
+		"ypos" 										"16"
 		"zpos" 										"3"
 		"wide" 										"50"
 		"tall"										"15"
@@ -48,7 +48,7 @@
 	{
 		"ControlName" 								"ImagePanel"
 		"fieldName" 								"ServerTimeLimitLabelBG"
-		"xpos" 										"30"
+		"xpos" 										"1"
 		"ypos" 										"16"
 		"zpos" 										"3"
 		"wide" 										"41"
