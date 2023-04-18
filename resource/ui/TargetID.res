@@ -69,7 +69,7 @@
 	{	
 		"ControlName"		    "Label"
 		"fieldName"		      	"TargetDataLabel"
-		"font"			        "M0refont24NumbersOL"
+		"font"			        "M0refont18NumbersOL"
 		"fgcolor"				"0 255 0 255"
 		"fgcolor_override"  	"0 255 0 255"
 		"TextColor"				"0 255 0 255"

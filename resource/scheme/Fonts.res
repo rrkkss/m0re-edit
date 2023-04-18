@@ -116,12 +116,24 @@ Scheme
 		}
 
 		//grape-more uber % font
-		M0refont24NumbersOL
+		M0refont18NumbersOL
 		{
 			"1"
 			{
 				"name"		"Surface-Uber"
 				"tall"		"18"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+
+		M0refont28NumbersOL
+		{
+			"1"
+			{
+				"name"		"Surface-Uber"
+				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
 				"outline"	"1"

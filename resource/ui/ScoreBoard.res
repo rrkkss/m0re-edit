@@ -165,7 +165,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ServerTimeLeft"
-		"font"										"M0refont24NumbersOL"
+		"font"										"M0refont18NumbersOL"
 		"labelText"									"%servertimeleft%"
 		"textAlignment"								"center"
 		"xpos"										"c-75"
