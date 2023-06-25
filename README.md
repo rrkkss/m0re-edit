@@ -3,7 +3,7 @@
 forked from https://github.com/Hypnootize/Hypnotize-m0rehud
 
 ### PHOTOS
-* [HUD ALBUM](https://imgur.com/a/Vz678vL) (things not changed can be seen in the second link)
+* [HUD ALBUM](https://imgur.com/a/sebhnT6) (things not changed can be seen in the second link)
 * [ORIGINAL HUD](http://imgur.com/a/2gckG) for Hypnotize's version
 
 ### SUGGESTED SETTINGS
