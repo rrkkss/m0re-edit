@@ -310,7 +310,7 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	   "80 80 80 255"
+				"bgcolor_override"	   	"80 80 80 255"
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"
@@ -330,8 +330,8 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	   "0 0 0 0"
-				"fgcolor_override"	   "255 255 255 160"
+				"bgcolor_override"		"0 0 0 0"
+				"fgcolor_override"		"255 255 255 160"
 				"proportionaltoparent"	"1"
 			}
 			"HealthIcon"
@@ -372,7 +372,7 @@
 			}
 			"ReadyImage"
 			{
-				"ControlName"		"ImagePanel"
+				"ControlName"	"ImagePanel"
 				"fieldName"		"ReadyImage"
 				"xpos"			"32"
 				"ypos"			"8"
@@ -388,20 +388,21 @@
 			}
 			"respawntime"
 			{
-				"ControlName"	"CExLabel"
-				"fieldName"		"respawntime"
-				"font"			"Cerbetica13"
-				"xpos"			"cs-0.5"
-				"ypos"			"0"
-				"zpos"			"50"
-				"wide"			"f0"
-				"tall"			"19"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"labelText"		"%respawntime%"
-				"textAlignment"	"center"
+				"ControlName"			"CExLabel"
+				"fieldName"				"respawntime"
+				"font"					"robotoSmall"
+				"xpos"					"cs-0.5"
+				"ypos"					"0"
+				"zpos"					"50"
+				"wide"					"f0"
+				"tall"					"19"
+				"autoResize"			"0"
+				"pinCorner"				"0"
+				"visible"				"1"
+				"labelText"				"%respawntime%"
+				"textAlignment"			"center"
 				"proportionaltoparent"	"1"
+				"fgcolor"				"yellow"
 			}
 			"chargeamount"
 			{

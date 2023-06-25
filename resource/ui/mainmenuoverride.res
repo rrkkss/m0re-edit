@@ -205,7 +205,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Version"
-		"xpos"										"0"
+		"xpos"										"7"
 		"ypos"										"42"
 		"zpos"										"15"
 		"wide"										"100"
