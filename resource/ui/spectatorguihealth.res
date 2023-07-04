@@ -19,7 +19,7 @@
 	{
 		"ControlName"								"Label"
 		"fieldName"									"PlayerStatusHealthValueTarget"
-		"xpos"										"-22"
+		"xpos"										"-15"
 		"ypos"										"7"
 		"zpos"										"20"
 		"wide"										"80"
