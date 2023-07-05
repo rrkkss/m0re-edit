@@ -23,6 +23,18 @@ Scheme
 			}
 		}
 
+		robotoSmallOutline
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+
 		robotoMenu
 		{
 			"1"
