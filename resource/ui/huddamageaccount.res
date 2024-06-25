@@ -11,7 +11,7 @@
 		"PositiveColor"								"Heal Numbers"
 		"NegativeColor"								"Damage Numbers"
 		"delta_lifetime"							"2"
-		"delta_item_font"							"M0refont28NumbersOL"
-		"delta_item_font_big"						"M0refont28NumbersOL"
+		"delta_item_font"							"M0refont18NumbersOL"
+		"delta_item_font_big"						"M0refont18NumbersOL"
 	}
 }
