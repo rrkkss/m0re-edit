@@ -552,7 +552,7 @@ Scheme
 			}
 		}
 		
-		HypnoLabelSmall
+		"HypnoLabelSmall"
 		{
 			"1"
 			{
@@ -562,7 +562,8 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		HypnoLabel
+		
+		"HypnoLabel"
 		{
 			"1"
 			{
@@ -576,25 +577,25 @@ Scheme
 	
 	CustomFontFiles
 	{
-		"30"
+		"60"
 		{
 			"font" "resource/scheme/fonts/Hypnotize Icons.ttf"
 			"name" "Hypnotize Icons V3"
 		}
 		
-		"31"
+		"61"
 		{
 			"font" "resource/scheme/fonts/TF2 Class Icons.ttf"
 			"name" "TF2 Class Icons V2"
 		}
 		
-		"32"
+		"62"
 		{
 			"font" "resource/scheme/fonts/Blocks.ttf"
 			"name" "Blocks"
 		}
 		
-		"33"
+		"63"
 		{
 			"font" "resource/scheme/fonts/PinyonScript Regular.ttf"
 			"name" "Pinyon Script"

@@ -164,6 +164,28 @@ Scheme
 			}
 		}
 
+		"Renogare12"
+		{
+			"1"
+			{
+				"name"										"Renogare Soft"
+				"tall"										"12"
+				"additive"  								"0"
+				"antialias"									"1"
+			}
+		}
+
+		"Renogare14"
+		{
+			"1"
+			{
+				"name"										"Renogare Soft" //"RenogareSoft-Regular"
+				"tall"										"14"
+				"additive"  								"0"
+				"antialias"									"1"
+			}
+		}
+
 		"Renogare20"
 		{
 			"1"
@@ -184,7 +206,31 @@ Scheme
 			}
 		}
 
-		//default m0rehud fonts
+		"ItemFontAttribLarge"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"11"
+				"weight"									"500"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+
+		"ItemFontAttribLarger"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"14"
+				"weight"									"500"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+
+		//default m0rehud fonts ///////////////////////////////////////////
 		"m0refont8"
 		{
 			"1"
@@ -3349,11 +3395,18 @@ Scheme
 			"font"				"resource/scheme/fonts/renogare linux.otf" [$POSIX]
 			"name"				"Renogare Soft"
 		}
+
 		"17"
 		{
 			"font"				"resource/scheme/fonts/renogare numbers.otf" [$WINDOWS]
 			"font"				"resource/scheme/fonts/renogare numbers linux.otf" [$POSIX]
 			"name"				"Renogare Numbers"
+		}
+
+		"18" 
+		{
+			"font" 				"resource/scheme/fonts/product sans.ttf"
+			"name" 				"Product Sans"
 		}
 	}
 }

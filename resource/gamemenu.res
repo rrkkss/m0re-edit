@@ -1,165 +1,146 @@
 "GameMenu"
 {
-	/////////////////////////MAIN MENU/////////////////////////
 	"Version"
 	{
 		"label" 									"INFO" 
-		"command" 									"engine showconsole; gfsgkjdfgklsdj"
+		"command" 									"engine showconsole; GNOMED!"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
 	{
-		"label" 									"SERVERS"
+		"label" 									"u"
 		"command" 									"OpenServerBrowser"
-	}
-	"Create"
-	{
-		"label"										"CREATE"
-		"command"									"OpenCreateMultiplayerGameDialog"
+		"subimage" 									"replay/thumbnails/panels/TriangleUP50"
 	}
 	"Items"
 	{
-		"label"										"ITEMS"
+		"label"										"L"
 		"command"									"engine open_charinfo"
+		"subimage" 									"replay/thumbnails/panels/TriangleDOWN50"
 	}
 	"Store"
 	{
-		"label"										"STORE"
+		"label"										"N"
 		"command"									"engine open_store"
+		"subimage" 									"replay/thumbnails/panels/TriangleUP50"
 	}
 	"Settings"
 	{
-		"label"										"OPTIONS"
+		"label"										"|"
 		"command"									"OpenOptionsDialog"
+		"subimage" 									"replay/thumbnails/panels/TriangleDOWN50"
 	}
 	"Advanced"
 	{
-		"label"										"ADVANCED"
+		"label"										"}"
 		"command"									"opentf2options"
-	}
-	"DemoUI"
-	{
-		"label"										"DEMOUI"
-		"command"									"engine demoui"
-	}
-	"Contracker"
-	{
-		"label"										"CONTRACKER"
-		"command"									"questlog"
-	}
-	"Streams"
-	{
-		"label"										"STREAMS"
-		"command"									"watch_stream"
+		"subimage" 									"replay/thumbnails/panels/TriangleUP50"
 	}
 	"Quit"
 	{
-		"label" 									"QUIT"
+		"label" 									"b"
 		"command" 									"engine replay_confirmquit"
+		"subimage" 									"replay/thumbnails/panels/TriangleDOWN50"
 		"OnlyAtMenu"								"1"
-	}
-	
-	/////////////////////////INGAME ONLY/////////////////////////
-	"Scoreboard"
-	{
-		"label"										"SCOREBOARD"
-		"command"									"engine toggle cl_hud_minmode"
-		"OnlyInGame"								"1"
 	}
 	"Disconnect"
 	{
-		"label" 									"DISCONNECT"
+		"label" 									"b"
 		"command" 									"engine disconnect"
+		"subimage" 									"replay/thumbnails/panels/TriangleDOWN50"
 		"OnlyInGame" 								"1"
 	}
-	"QuitGame"
+
+
+
+
+	"Stream"
 	{
-		"label" 									"QUIT"
-		"command" 									"engine replay_confirmquit"
-		"OnlyInGame" 								"1"
+		"label"										"0"
+		"command"									"watch_stream"
+		"tooltip"									"Streams"
+		"OnlyInGame"								"0"
+	}
+	"Contracker"
+	{
+		"label"										"B"
+		"command"									"questlog"
+		"tooltip"									"Contracker"
+		"OnlyInGame"								"0"
+	}
+	"Console"
+	{
+		"label"										"7"
+		"command"									"engine toggleconsole; clear; echo Geass made by Nubbi"
+		"tooltip"									"Open Console"
+		"OnlyInGame"								"0"
 	}
 	"Vote"
 	{
-		"label"										""
+		"label"										"y"
 		"command"									"callvote"
-		"subimage" 									"icon_checkbox"
+		"tooltip"									"Call a Vote"
 		"OnlyInGame" 								"1"
 	}
 	"Mute"
 	{
-		"label"										""
+		"label"										"h"
 		"command"									"OpenMutePlayerDialog"
-		"subimage" 									"glyph_muted"
+		"tooltip"									"Mute a Player"
 		"OnlyInGame" 								"1"
 	}
-	"Report"
-	{
-		"label"										""
-		"command"									"OpenReportPlayerDialog"
-		"subimage"									"glyph_alert"
-		"OnlyInGame"								"1"
-	}
-	"Achievements"
-	{
-		"label"										""
-		"command"									"OpenAchievementsDialog"
-		"subimage"									"glyph_achievements"
-		"OnlyInGame"								"1"
-	}
-	
-	/////////////////////////TOOLS BAR/////////////////////////
 	"Fix Invisible Players"
 	{
-		"label"										"D"
-		"command"									"engine stop; record fix; stop"
+		"label"										"R"
+		"command"									"engine stop; record fix"
 		"tooltip"									"Fix Invisible Players"
 		"OnlyInGame"								"1"
 	}
 	"Reload Sound"
 	{
-		"label"										"B"
+		"label"										"k"
 		"command"									"engine snd_restart"
 		"tooltip"									"Reload Sound"
 		"OnlyInGame"								"1"
 	}
 	"Reload Hud"
 	{
-		"label"										"C"
+		"label"										"/"
 		"command"									"engine hud_reloadscheme"
 		"tooltip"									"Reload Hud"
 		"OnlyInGame"								"1"
 	}
 	"Toggle Netgraph"
 	{
-		"label"										"F"
+		"label"										"4"
 		"command"									"engine toggle net_graph 0 1"
 		"tooltip"									"Enable/Disable NetGraph"
 		"OnlyInGame"								"1"
 	}
 	"Toggle Contracts"
 	{
-		"label"										"H"
+		"label"										"I"
 		"command"									"engine toggle tf_contract_progress_show 0 1"
 		"tooltip"									"Enable/Disable Contracts"
 		"OnlyInGame"								"1"
 	}
 	"Enable Captions"
 	{
-		"label"										"E"
+		"label"										"3"
 		"command"									"engine closecaption 1;cc_subtitles 0;cc_lang english;cc_predisplay_time 0;cc_emit #subtitles0"
 		"tooltip"									"Enable CloseCaptions"
 		"OnlyInGame"								"1"
 	}
 	"Disable Captions"
 	{
-		"label"										"E"
+		"label"										"3"
 		"command"									"engine closecaption 0; cc_predisplay_time 0"
 		"tooltip"									"Disable CloseCaptions"
 		"OnlyInGame"								"1"
 	}
 	"Toggle Chat"
 	{
-		"label"										"A"
+		"label"										","
 		"command"									"engine toggle hud_saytext_time 0 6"
 		"tooltip"									"Enable/Disable Chat"
 		"OnlyInGame"								"1"
