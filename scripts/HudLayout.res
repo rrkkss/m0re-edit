@@ -177,7 +177,7 @@
 		"RightJustify"	  							"1"
 		"TextFont"									"m0refont12"
 		"TeamBlue"									"M0reBlue"
-		"TeamRed"									"M0reRedd	"
+		"TeamRed"									"M0reRed"
 		"IconColor"									"255 255 255 255"
 		"LocalPlayerColor"							"0 0 0 255"
 		"BaseBackgroundColor"						"0 0 0 180"
