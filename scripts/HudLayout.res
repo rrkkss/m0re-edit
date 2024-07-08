@@ -166,26 +166,22 @@
 	HudDeathNotice
 	{
 		"xpos"	 									"r640"
-		"ypos"	 									"9"
+		"ypos"	 									"37"
 		"wide"	 									"628"
 		"tall"	 									"468"
-
 		"MaxDeathNotices" 							"12"
-		"IconScale"	  								"0.25" //0.35
+		"IconScale"	  								"0.25"
 		"LineHeight"	  							"12"
-		"LineSpacing"	 							"1"
-		"CornerRadius"	  							"0"
+		"LineSpacing"	 							"0"
+		"CornerRadius"	  							"1"
 		"RightJustify"	  							"1"
-		
-		"TextFont"									"robotoSmall"
-		
-		"TeamBlue"									"0 102 204 255"
-		"TeamRed"									"209 44 51 255"
+		"TextFont"									"m0refont12"
+		"TeamBlue"									"M0reBlue"
+		"TeamRed"									"M0reRedd	"
 		"IconColor"									"255 255 255 255"
-		"LocalPlayerColor"							"HUDBlack"
-
-		"BaseBackgroundColor"						"18 17 17 255"
-		"LocalBackgroundColor"						"210 210 210 255"
+		"LocalPlayerColor"							"0 0 0 255"
+		"BaseBackgroundColor"						"0 0 0 180"
+		"LocalBackgroundColor"						"255 255 255 180"
 	}
 	
 	HudCloseCaption

@@ -205,6 +205,16 @@ Scheme
 				"antialias" 								"1"
 			}
 		}
+		"surface11"
+		{
+			"1"
+			{
+				"name"										"Surface-Medium"
+				"tall"										"11"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
 		"m0refont11"
 		{
 			"1"
