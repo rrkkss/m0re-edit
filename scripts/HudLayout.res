@@ -81,10 +81,10 @@
 	
 	CHealthAccountPanel
 	{
-		"xpos"										"300"
-		"xpos_minmode"								"0"
-		"ypos"										"300"
-		"ypos_minmode"								"456"
+		"xpos"										"220"
+		// "xpos_minmode"								"0"
+		"ypos"										"344"
+		// "ypos_minmode"								"456"
 		"wide"										"f0"
 		"tall"  									"24"
 	}
@@ -119,10 +119,10 @@
 
 	CMainTargetID	//medic you're looking at
 	{
-		"ypos"										"c85"
-		"ypos_minmode"								"c30"
+		"ypos"										"c122"
+		// "ypos_minmode"								"c30"
 		"tall"	 									"50"
-		"tall_minmode"	 							"30"
+		// "tall_minmode"	 							"30"
 	}
 	
 	CSpectatorTargetID	//medic percentage while spectating him
@@ -132,12 +132,12 @@
 		"tall_minmode"	 							"30"
 	}
 	
-	CSecondaryTargetID	//medic's uber + medigun name which is healing you
+	CSecondaryTargetID	//medic's uber + medigun name which you are healing
 	{
-		"ypos"										"c122"
-		"ypos_minmode"								"c85"
+		"ypos"										"c85"
+		// "ypos_minmode"								"c85"
 		"tall"	 									"50"
-		"tall_minmode"	 							"30"
+		// "tall_minmode"	 							"30"
 	}
 	
 	"BuildingAnchor"

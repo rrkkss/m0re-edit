@@ -4,8 +4,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"UberAnchor"
-		"xpos"										"c175"
-		"ypos"										"c95"
+		"xpos"										"c195"
+		"ypos"										"c115"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"80"

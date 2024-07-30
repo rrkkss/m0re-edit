@@ -75,7 +75,7 @@
 		"TextColor"				"0 255 0 255"
 		"color"					"0 255 0 255" //why even
 		"xpos"			        "20"
-		"ypos"			        "-8"
+		"ypos"			        "4"
 		"zpos"			        "1"
 		"wide"			        "280"
 		"tall"			        "50"
@@ -96,7 +96,7 @@
 		"xpos"			                 			"10"
 		"ypos"			                 			"-7"
 		"wide"			                 			"50" //45
-		"tall"			                 			"40"
+		"tall"			                 			"60"
 		"visible"		                 			"1"
 		"enabled"		                 			"1"	
 		"HealthBonusPosAdj"	         				"-1000" //buff cross on target label

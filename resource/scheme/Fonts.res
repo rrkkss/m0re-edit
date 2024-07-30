@@ -103,30 +103,6 @@ Scheme
 			}
 		}
 
-        surfaceHPAmmo28
-		{
-			"1"
-			{
-				"name"		"SurfaceHPAmmo-Medium"
-				"tall"		"28"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"0"
-			}
-		}
-
-		surfaceHPAmmo28OUTLINE
-		{
-			"1"
-			{
-				"name"		"SurfaceHPAmmo-Medium"
-				"tall"		"28"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-
 		//grape-more uber % font
 		M0refont18NumbersOL
 		{
@@ -812,28 +788,6 @@ Scheme
 				"antialias" 								"1"
 			}
 		}
-		"m0refont72Shadow"
-		{
-			"1"
-			{
-				"name"										"Surface-Medium"
-				"tall"										"72"
-				"additive"									"0"
-				"antialias" 								"1"
-				"dropshadow" 								"1"
-			}
-		}
-		"m0refont72BLUR"
-		{
-			"1"
-			{
-				"name"										"Surface-Medium"
-				"tall"										"72"
-				"additive"									"0"
-				"antialias" 								"1"
-				"blur"										"1"
-			}
-		}
 		
 		"BlocksSharp64"
 		{
@@ -854,28 +808,28 @@ Scheme
 		{
 			"1"
 			{
-				"name"		  								"Roboto Medium"
+				"name"		  								"Renogare Soft"
 				"tall"      								"12"
 				"antialias" 								"1"
 				"yres"	    								"480 700"
 			}
 			"2"
 			{
-				"name"		 								"Roboto Medium"
+				"name"		 								"Renogare Soft"
 				"tall"      								"18"
 				"antialias" 								"1"
 				"yres"	    								"701 899"
 			}
 			"3"
 			{
-				"name"		  								"Roboto Medium"
+				"name"		  								"Renogare Soft"
 				"tall"      								"22"
 				"antialias" 								"1"
 				"yres"	    								"900 1000"
 			}
 			"4"
 			{
-				"name"		  								"Roboto Medium"
+				"name"		  								"Renogare Soft"
 				"tall"      								"24"
 				"antialias" 								"1"
 				"yres"	    								"1001 10000"
@@ -886,28 +840,28 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Roboto Medium"
+				"name"										"Renogare Soft"
 				"tall"      								"12"
 				"antialias" 								"1"
 				"yres"										"480 700"
 			}
 			"2"
 			{
-				"name"										"Roboto Medium"
+				"name"										"Renogare Soft"
 				"tall"      								"16"
 				"antialias" 								"1"
 				"yres"										"701 899"
 			}
 			"3"
 			{
-				"name"										"Roboto Medium"
+				"name"										"Renogare Soft"
 				"tall"     									"20"
 				"antialias" 								"1"
 				"yres"										"900 1000"
 			}
 			"4"
 			{
-				"name"										"Roboto Medium"
+				"name"										"Renogare Soft"
 				"tall"      								"24"
 				"antialias" 								"1"
 				"yres"										"1001 10000"
@@ -3359,51 +3313,46 @@ Scheme
 			"font"				"resource/scheme/fonts/Avenir Black.ttf"
 			"name"				"AvenirLTStd-Black"
 		}
-		"11"
-		{
-			"font" 				"resource/scheme/fonts/Surface-HP-and-Ammo.ttf"
-			"name" 				"SurfaceHPAmmo-Medium"
-		}
 		
-		"12" 
+		"11" 
 		{
 			"font" 				"resource/scheme/fonts/Roboto-Bold_0.ttf"
 			"name" 				"Roboto Bold"
 		}
 
-		"13" 
+		"12" 
 		{
 			"font" 				"resource/scheme/fonts/Roboto-Medium_0.ttf"
 			"name"				"Roboto Medium"
 		}
 
-		"14"
+		"13"
 		{
 			"font"				"resource/scheme/fonts/Surface-Uber.otf"
 			"name"				"Surface-Uber"
 		}
 
-		"15"
+		"14"
 		{
 			"font" 				"resource/scheme/fonts/Respawn Quake.otf"
 			"name" 				"Respawn Font Quake"
 		}
 
-		"16"
+		"15"
 		{
 			"font"				"resource/scheme/fonts/renogare.ttf" [$WINDOWS]
 			"font"				"resource/scheme/fonts/renogare linux.otf" [$POSIX]
 			"name"				"Renogare Soft"
 		}
 
-		"17"
+		"16"
 		{
 			"font"				"resource/scheme/fonts/renogare numbers.otf" [$WINDOWS]
 			"font"				"resource/scheme/fonts/renogare numbers linux.otf" [$POSIX]
 			"name"				"Renogare Numbers"
 		}
 
-		"18" 
+		"17" 
 		{
 			"font" 				"resource/scheme/fonts/product sans.ttf"
 			"name" 				"Product Sans"

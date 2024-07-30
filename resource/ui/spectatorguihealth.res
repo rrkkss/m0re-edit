@@ -4,15 +4,10 @@
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"PlayerStatusHealthBonusImage"
-		"xpos"										"-9999"
-		"ypos"										"0"
-		"zpos"										"0"
 		"wide"										"0"
 		"tall"										"0"
 		"visible"									"0"
 		"enabled"									"0"
-		"image"										""
-		"scaleImage"								"0"	
 	}
 	
 	"PlayerStatusHealthValueTarget"
@@ -20,7 +15,7 @@
 		"ControlName"								"Label"
 		"fieldName"									"PlayerStatusHealthValueTarget"
 		"xpos"										"-15"
-		"ypos"										"7"
+		"ypos"										"19"
 		"zpos"										"20"
 		"wide"										"80"
 		"tall"										"30"
@@ -66,10 +61,6 @@
 		"font"										"ScoreboardVerySmall"
 		"fgcolor"									"TFOrange"
 	}
-
-	
-	
-	
 	
 	//////////////////////////////////REMOVED STUFF//////////////////////////////////
 	

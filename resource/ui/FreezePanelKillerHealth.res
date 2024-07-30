@@ -5,13 +5,13 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"PlayerStatusHealthValueKiller"
 		"xpos"										"0"
-		"ypos"										"0"
+		"ypos"										"100"
 		"zpos"										"5"
 		"wide"										"150"
 		"tall"										"40"
 		"visible"									"1"
 		"enable"									"1"
-		"font"										"surfaceHPAmmo28"
+		"font"										"Renogare20"
 		"fgcolor"									"Health Numbers"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"	
@@ -21,14 +21,14 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"PlayerStatusHealthValueShadowKiller"
-		"xpos"										"-2"
-		"ypos"										"-2"
+		"xpos"										"-1"
+		"ypos"										"-1"
 		"zpos"										"5"
 		"wide"										"150"
 		"tall"										"40"
 		"visible"									"1"
 		"enable"									"1"
-		"font"										"surfaceHPAmmo28"
+		"font"										"Renogare20"
 		"fgcolor"									"Black"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"	
@@ -40,20 +40,11 @@
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"PlayerStatusHealthBonusImage"
-		"xpos"										"9999" //59
-		"ypos"										"9999"  //6
-		"zpos"										"3"
-		"wide"										"32"
-		"tall"										"32"
+		"wide"										"0"
+		"tall"										"0"
 		"visible"									"0"
 		"enabled"									"0"
-		"image"										"../hud/health_over_bg"
-		"scaleImage"								"1"	
 	}
-	
-	
-	
-	
 	
 	//////////////////////////////////REMOVED STUFF//////////////////////////////////
 	
