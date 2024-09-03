@@ -111,8 +111,8 @@
 	
 	DisguiseStatus
 	{
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"-140"
+		"ypos"										"-20"
 		"wide"										"f0"
 		"tall"										"480"
 	}
