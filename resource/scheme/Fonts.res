@@ -206,6 +206,61 @@ Scheme
 			}
 		}
 
+		"CounterIcon"
+		{
+			"1"
+			{
+				"name"		"Heydings Icons"
+				"tall"		"20"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+
+		"FlagIcon"
+		{
+			"1"
+			{
+				"name"		"Heydings Icons"
+				"tall"		"20"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+
+		"EffectMeterIcon"
+		{
+			"1"
+			{
+				"name"		"Heydings Icons"
+				"tall"		"18"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+
+		"EffectIcon"
+		{
+			"1"
+			{
+				"name"		"Heydings Icons"
+				"tall"		"20"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+
+		"PlayerIcon"
+		{
+			"1"
+			{
+				"name"		"Heydings Icons"
+				"tall"		"16"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+
 		//default m0rehud fonts ///////////////////////////////////////////
 		"m0refont8"
 		{
@@ -3356,6 +3411,12 @@ Scheme
 		{
 			"font" 				"resource/scheme/fonts/product sans.ttf"
 			"name" 				"Product Sans"
+		}
+
+		"18"
+		{
+			"font" 				"resource/scheme/fonts/heydings_icons.ttf"
+			"name" 				"heydings_icons"
 		}
 	}
 }
