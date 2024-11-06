@@ -13,16 +13,17 @@
 		"visible"		           				 	"1"
 		"enabled"		           				 	"1"
 		"tabPosition"								"0"
-		"medal_width"								"0"
-		"avatar_width"								"55"
-		"spacer"									"0"
-		"name_width"								"70"
+		"medal_width"								"28"
+		"medal_column_width"						"18"
+		"avatar_width"								"28"
+		"spacer"									"5"
+		"name_width"								"118"
 		"nemesis_width"								"14"
 		"class_width"								"14"
 		"score_width"								"20"
 		"ping_width"								"20"
-		"killstreak_width"							"12"
-		"killstreak_image_width" 					"12"
+		"killstreak_width"							"18"
+		"killstreak_image_width" 					"15"
 	}
 	
 	"BluePlayerList"
@@ -38,10 +39,8 @@
 		"pinCorner"		        					"0"
 		"visible"		          					"1"
 		"enabled"		          					"1"
-		"tabPosition"	        					"0"
-		"autoresize"	        					"3"
 		"linespacing"       						"12"
-		"fgcolor"		         					"m0reblue"
+		"fgcolor"		         					"M0reBlue"
 	}
 	
 	"RedPlayerList"
@@ -57,10 +56,8 @@
 		"pinCorner"		        					"0"
 		"visible"		         					"1"
 		"enabled"		          					"1"
-		"tabPosition"	        					"0"
-		"autoresize"	        					"3"
 		"linespacing"       						"12"
-		"textcolor"									"m0rered"
+		"textcolor"									"M0reRed"
 	}
 	
 	"BlueTeamScore"

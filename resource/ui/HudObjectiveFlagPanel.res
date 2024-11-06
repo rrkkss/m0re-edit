@@ -82,6 +82,11 @@
 		{
 			"visible"								"0"
 		}
+
+		"if_no_flags"
+		{
+			"visible"								"0"
+		}
 	}	
 	
 	"RedScore"
@@ -111,6 +116,11 @@
 		}
 		
 		"if_mvm"
+		{
+			"visible"								"0"
+		}
+
+		"if_no_flags"
 		{
 			"visible"								"0"
 		}
@@ -180,6 +190,11 @@
 		{
 			"visible"								"0"
 		}
+
+		"if_no_flags"
+		{
+			"visible"								"0"
+		}
 	}
 	
 	"BlueFlag"
@@ -214,6 +229,11 @@
 			"xpos"									"c-82"
 			"ypos"									"r72"
 		}
+
+		"if_no_flags"
+		{
+			"visible"								"0"
+		}
 	}
 	
 	"RedFlag"
@@ -236,6 +256,11 @@
 		"if_hybrid_single"
 		{
 			"xpos"									"c-72"
+		}
+
+		"if_no_flags"
+		{
+			"visible"								"0"
 		}
 
 		"if_no_flags"

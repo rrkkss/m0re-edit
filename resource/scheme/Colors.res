@@ -523,26 +523,26 @@ Scheme
 		"FgColor"											"White"
 		"BgColor"											"BlackDarkTransparent"
 
-		"ViewportBG"										"Blank"
-		"TeamSpec"											"White"
-		"TeamRed"											"m0rered"
-		"TeamBlue"											"m0reblue"
+		"ViewportBG"										"0 0 0 0"
+		"TeamSpec"											"255 255 255 255"
+		"TeamRed"											"236 84 73 255"
+		"TeamBlue"											"63 161 233 255"
 
 		"MapDescriptionText"								"Gray"
 		"HudIcon_Green"										"0 160 0 255"
 		"HudIcon_Red"										"160 0 0 255"
 
 		"ItemColor"											"255 167 42 200"
-		"MenuColor"											"White"
+		"MenuColor"											"255 255 255 255"
 		"MenuBoxBg"											"0 0 0 100"
 
-		"SelectionNumberFg"									"White"
-		"SelectionTextFg"									"White"
+		"SelectionNumberFg"									"255 255 255 255"
+		"SelectionTextFg"									"255 255 255 255"
 		"SelectionEmptyBoxBg" 								"0 0 0 80"
 		"SelectionBoxBg" 									"0 0 0 80"
 		"SelectionSelectedBoxBg"							"0 0 0 190"
 
-		"HintMessageFg"										"White"
+		"HintMessageFg"										"255 255 255 255"
 		"HintMessageBg" 									"0 0 0 60"
 
 		"ProgressBarFg"										"255 30 13 255"
