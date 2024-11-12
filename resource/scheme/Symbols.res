@@ -133,6 +133,17 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+
+		"Symbols 35"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V3"
+				"tall"			"35"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
 		
 		"Symbols 38"
 		{

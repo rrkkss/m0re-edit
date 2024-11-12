@@ -17,7 +17,7 @@
 		"resize_time"							"0"
 	}
 
-	"TopBar"
+	"TopBar" // this is the top of the screen in main menu, handles party chat and game modes selection
 	{
 		"ControlName"							"EditablePanel"
 		"fieldName"								"TopBar"
@@ -26,7 +26,8 @@
 		"zpos"									"1"
 		"wide"									"f0"
 		"tall"									"24"
-		"visible"								"1"
+		"visible"								"0"
+		"enabled"								"0"
 		"proportionaltoparent"					"1"
 
 		"pinCorner"								"2"

@@ -143,7 +143,7 @@
 		
 		"pin_to_sibling" 							"MainMenuAnchor"
 		
-		"SubButton"
+		"SubButton" // the entire triagle (with the button)
 		{
 			"ControlName"							"CExImageButton"
 			"fieldName"								"SubButton"
@@ -156,10 +156,10 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"tabPosition"							"0"
-			"use_proportional_insets" 				"1"
 			"font"									"Symbols 50"
 			"textAlignment"							"center"
-			"textinsety"							"35"
+			"use_proportional_insets" 				"0"   // this is fucked after the HDPI update
+			"textinsety"							"35"  // 0 is the center of the triangle
 			"dulltext"								"0"
 			"brighttext"							"0"
 			"default"								"1"
@@ -176,15 +176,15 @@
 			"image_drawcolor"						"208 212 255 255"
 			"image_armedcolor"						"220 222 255 255"
 			
-			"SubImage"
+			"SubImage" // the triangle
 			{
 				"ControlName"						"ImagePanel"
 				"fieldName"							"SubImage"
 				"xpos"								"cs-0.5"
 				"ypos"								"cs-0.5"
 				"zpos"								"0"
-				"wide"								"f0"
-				"tall"								"f0"
+				"wide"								"120"
+				"tall"								"120"
 				"visible"							"1"
 				"enabled"							"1"
 				"scaleImage"						"1"
@@ -220,7 +220,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"tabPosition"							"0"
-			"use_proportional_insets" 				"1"
+			"use_proportional_insets" 				"0"
 			"font"									"Symbols 50"
 			"textAlignment"							"center"
 			"textInsety"							"-35"
@@ -285,7 +285,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"tabPosition"							"0"
-			"use_proportional_insets" 				"1"
+			"use_proportional_insets" 				"0"
 			"font"									"Symbols 50"
 			"textAlignment"							"center"
 			"textInsety"							"35"
@@ -350,7 +350,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"tabPosition"							"0"
-			"use_proportional_insets" 				"1"
+			"use_proportional_insets" 				"0"
 			"font"									"Symbols 50"
 			"textAlignment"							"center"
 			"textInsety"							"-35"
@@ -415,7 +415,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"tabPosition"							"0"
-			"use_proportional_insets" 				"1"
+			"use_proportional_insets" 				"0"
 			"font"									"Symbols 50"
 			"textAlignment"							"center"
 			"textInsety"							"35"
@@ -480,7 +480,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"tabPosition"							"0"
-			"use_proportional_insets" 				"1"
+			"use_proportional_insets" 				"0"
 			"font"									"Symbols 50"
 			"textAlignment"							"center"
 			"textInsety"							"-35"
@@ -545,7 +545,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"tabPosition"							"0"
-			"use_proportional_insets" 				"1"
+			"use_proportional_insets" 				"0"
 			"font"									"Symbols 50"
 			"textAlignment"							"center"
 			"textInsety"							"-35"
@@ -602,7 +602,8 @@
 		"zpos"										"50"
 		"wide"										"20"
 		"tall"										"20"
-		"visible"									"1"
+		"visible"									"0"
+		"enabled"									"0"
 		
 		"pin_to_sibling" 							"BottomLeftButtonsAnchor"
 
@@ -648,7 +649,8 @@
 		"zpos"										"50"
 		"wide"										"22"
 		"tall"										"20"
-		"visible"									"1"
+		"visible"									"0"
+		"enabled"									"0"
 		
 		"pin_to_sibling" 							"Stream"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -696,7 +698,8 @@
 		"zpos"										"50"
 		"wide"										"20"
 		"tall"										"20"
-		"visible"									"1"
+		"visible"									"0"
+		"enabled"									"0"
 		
 		"pin_to_sibling" 							"Contracker"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
