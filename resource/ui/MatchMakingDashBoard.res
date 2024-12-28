@@ -26,7 +26,7 @@
 		"zpos"									"1"
 		"wide"									"f0"
 		"tall"									"24"
-		"visible"								"0"
+		"visible"								"1"
 		"enabled"								"0"
 		"proportionaltoparent"					"1"
 
