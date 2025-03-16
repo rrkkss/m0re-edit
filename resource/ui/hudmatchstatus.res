@@ -195,7 +195,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TimePanelValue"
-			"font"									"robotoSmall"
+			"font"									"m0refont11"
 			"fgcolor"								"255 255 255 255"
 			"xpos"									"-4"
 			"ypos"									"30"
@@ -389,7 +389,7 @@
 			{
 				"ControlName"			"CExLabel"
 				"fieldName"				"respawntime"
-				"font"					"robotoSmallOutline"
+				"font"					"m0refont11Outline"
 				"xpos"					"cs-0.5"
 				"ypos"					"0"
 				"zpos"					"50"

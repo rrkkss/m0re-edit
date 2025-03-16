@@ -52,7 +52,8 @@
 		"enabled"	  		         				"1"
 		"labelText" 		         				"%Health%"
 		"textAlignment"         				 	"center"	
-		"font"                   				 	"Renogare40"
+		"font"										"Renogare40" [$WINDOWS]
+		"font"										"Renogare48" [$POSIX]
 		"fgcolor"	    	         				"Health Numbers"
 		
 		"pin_to_sibling"							"HealthAnchor"
@@ -73,7 +74,8 @@
 		"enabled"	    	         				"1"
 		"labelText"	  	         				 	"%Health%"
 		"textAlignment"	         				 	"center"	
-		"font"                   				 	"Renogare40"
+		"font"										"Renogare40" [$WINDOWS]
+		"font"										"Renogare48" [$POSIX]
 		"fgcolor"	     	         				"Black"
 		"shadow"									"1"
 		

@@ -407,7 +407,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"Player1Name"
-		"font"										"robotoSmall"
+		"font"										"m0refont11"
 		"xpos"		    							"10"
 		"ypos"		    							"-11"
 		"zpos"		    							"3"
@@ -476,7 +476,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"Player2Name"
-		"font"										"robotoSmall"
+		"font"										"m0refont11"
 		"xpos"		    							"10"
 		"ypos"		    							"-11"
 		"zpos"		    							"3"
@@ -544,7 +544,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"Player3Name"
-		"font"										"robotoSmall"
+		"font"										"m0refont11"
 		"xpos"		    							"10"
 		"ypos"		    							"-11"
 		"zpos"		    							"3"

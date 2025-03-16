@@ -12,97 +12,6 @@ Scheme
 		/////////////////////////////////CUSTOM FONTS//////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////
 
-		robotoSmall
-		{
-			"1"
-			{
-				"name"		"Roboto Bold"
-				"tall"		"11"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-
-		robotoSmallOutline
-		{
-			"1"
-			{
-				"name"		"Roboto Bold"
-				"tall"		"11"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-
-		robotoMenu
-		{
-			"1"
-			{
-				"name"		"Roboto Bold"
-				"tall"		"15"
-				"additive"	"0"
-				"antialias"	"1"
-			}
-		}
-
-		robotoMedium
-		{
-			"1"
-			{
-				"name"		"Roboto Bold"
-				"tall"		"18"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-
-		robotoMediumShadow
-		{
-			"1"
-			{
-				"name"			"Roboto Bold"
-				"tall"			"18"
-				"additive"		"0"
-				"antialias" 	"1"
-				"dropshadow"	"1"
-			}
-		}
-
-		robotoBigger
-		{
-			"1"
-			{
-				"name"		"Roboto Bold"
-				"tall"		"24"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		
-		robotoBig
-		{
-			"1"
-			{
-				"name"		"Roboto Bold"
-				"tall"		"30"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		
-		robotoDamageNumbers
-		{
-			"1"
-			{
-				"name"		"Roboto Bold"
-				"tall"		"28"
-				"additive"	"0"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-
 		//grape-more uber % font
 		M0refont18NumbersOL
 		{
@@ -178,6 +87,16 @@ Scheme
 			{
 				"name"										"Renogare Soft"
 				"tall"										"40"
+				"antialias"									"1"
+			}
+		}
+
+		"Renogare48"
+		{
+			"1"
+			{
+				"name"										"Renogare Soft"
+				"tall"										"48"
 				"antialias"									"1"
 			}
 		}
@@ -282,21 +201,11 @@ Scheme
 				"antialias" 								"1"
 			}
 		}
-		"surface11"
-		{
-			"1"
-			{
-				"name"										"Surface-Medium"
-				"tall"										"11"
-				"additive"									"0"
-				"antialias" 								"1"
-			}
-		}
 		"m0refont11"
 		{
 			"1"
 			{
-				"name"										"Roboto Medium"
+				"name"										"Surface-Medium"
 				"tall"										"11"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -311,6 +220,17 @@ Scheme
 				"additive"									"0"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
+			}
+		}
+		"m0refont11Outline"
+		{
+			"1"
+			{
+				"name"										"Surface-Medium"
+				"tall"										"11"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"	 								"1"
 			}
 		}
 		"m0refont12"
@@ -3355,45 +3275,37 @@ Scheme
 		}
 		"8" 
 		{
-			"font"				"resource/scheme/fonts/Surface_Medium.otf"
+			"font"				"resource/scheme/fonts/surface_medium.otf" [$WINDOWS]
+			"font"				"resource/scheme/fonts/surface_medium_linux.otf" [$POSIX]
 			"name"				"Surface-Medium"
 		}
 		"9" 
 		{
-			"font"				"resource/scheme/fonts/Avenir Heavy.otf"
+			"font"				"resource/scheme/fonts/avenir heavy.otf" [$WINDOWS]
+			"font"				"resource/scheme/fonts/avenirltstd-heavy-linux.otf" [$POSIX]
 			"name"				"AvenirLTStd-Heavy"
 		}
 		"10" 
 		{
-			"font"				"resource/scheme/fonts/Avenir Black.ttf"
+			"font"				"resource/scheme/fonts/avenir black.ttf" [$WINDOWS]
+			"font"				"resource/scheme/fonts/avenirltstd-black-linux.otf" [$POSIX]
 			"name"				"AvenirLTStd-Black"
 		}
-		
-		"11" 
-		{
-			"font" 				"resource/scheme/fonts/Roboto-Bold_0.ttf"
-			"name" 				"Roboto Bold"
-		}
 
-		"12" 
+		"11"
 		{
-			"font" 				"resource/scheme/fonts/Roboto-Medium_0.ttf"
-			"name"				"Roboto Medium"
-		}
-
-		"13"
-		{
-			"font"				"resource/scheme/fonts/Surface-Uber.otf"
+			"font"				"resource/scheme/fonts/surface-uber.otf" [$WINDOWS]
+			"font"				"resource/scheme/fonts/surface-uber-linux.otf" [$POSIX]
 			"name"				"Surface-Uber"
 		}
 
-		"14"
+		"12"
 		{
-			"font" 				"resource/scheme/fonts/Respawn Quake.otf"
+			"font" 				"resource/scheme/fonts/respawn quake.otf"
 			"name" 				"Respawn Font Quake"
 		}
 
-		"15"
+		"13"
 		{
 			"font"				"resource/scheme/fonts/renogare.ttf" [$WINDOWS]
 			"font"				"resource/scheme/fonts/renogare linux.otf" [$POSIX]
@@ -3407,13 +3319,13 @@ Scheme
 			"name"				"Renogare Numbers"
 		}
 
-		"17" 
+		"15" 
 		{
 			"font" 				"resource/scheme/fonts/product sans.ttf"
 			"name" 				"Product Sans"
 		}
 
-		"18"
+		"16"
 		{
 			"font" 				"resource/scheme/fonts/heydings_icons.ttf"
 			"name" 				"heydings_icons"

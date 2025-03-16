@@ -46,7 +46,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"			"CapNumPlayers"
-		"font"				"robotoMedium"	//def font size 12
+		"font"				"m0refont12"	//def font size 12
 		"xpos"				"4"	//10
 		"ypos"				"3"
 		"zpos"				"4"

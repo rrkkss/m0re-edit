@@ -590,25 +590,25 @@ Scheme
 	{
 		"60"
 		{
-			"font" "resource/scheme/fonts/Hypnotize Icons.ttf"
+			"font" "resource/scheme/fonts/hypnotize icons.ttf"
 			"name" "Hypnotize Icons V3"
 		}
 		
 		"61"
 		{
-			"font" "resource/scheme/fonts/TF2 Class Icons.ttf"
+			"font" "resource/scheme/fonts/tf2 class icons.ttf"
 			"name" "TF2 Class Icons V2"
 		}
 		
 		"62"
 		{
-			"font" "resource/scheme/fonts/Blocks.ttf"
+			"font" "resource/scheme/fonts/blocks.ttf"
 			"name" "Blocks"
 		}
 		
 		"63"
 		{
-			"font" "resource/scheme/fonts/PinyonScript Regular.ttf"
+			"font" "resource/scheme/fonts/pinyonscript regular.ttf"
 			"name" "Pinyon Script"
 		}
 	}

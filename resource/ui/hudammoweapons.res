@@ -17,7 +17,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInClip"
-		"font"										"Renogare40"
+		"font"										"Renogare40" [$WINDOWS]
+		"font"										"Renogare48" [$POSIX]
 		"fgcolor"									"Ammo"
 		"xpos"										"-20"
 		"ypos"										"-20"
@@ -38,7 +39,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInClipShadow"
-		"font"										"Renogare40"
+		"font"										"Renogare40" [$WINDOWS]
+		"font"										"Renogare48" [$POSIX]
 		"fgcolor"									"Black"
 		"xpos"										"-1"
 		"ypos"										"-1"
@@ -97,7 +99,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoNoClip"
-		"font"										"Renogare40"
+		"font"										"Renogare40" [$WINDOWS]
+		"font"										"Renogare48" [$POSIX]
 		"fgcolor"									"Ammo"
 		"xpos"										"20"
 		"ypos"    									"-20"
@@ -118,7 +121,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoNoClipShadow"
-		"font"										"Renogare40"
+		"font"										"Renogare40" [$WINDOWS]
+		"font"										"Renogare48" [$POSIX]
 		"fgcolor"									"Black"
 		"xpos"										"-1"
 		"ypos"										"-1"
